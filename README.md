@@ -1,6 +1,6 @@
 ## Hi! I'm Jan
 
-💻 Programming student  
+💻 Programming middle school student  
 🚀 Learning full-stack development  
 ⚡ Interested in new technologies, minimalism, web development and programming
 
