@@ -1,8 +1,8 @@
-## Hi! I'm Jan
+## Hi there, I'm Jan
 
-💻 Programming middle school student  
+💻 High school student 
 🚀 Learning full-stack development  
-⚡ Interested in new technologies, minimalism, web development and programming
+⚡ Interested in new technologies, design, web development and programming
 
 ---
 
