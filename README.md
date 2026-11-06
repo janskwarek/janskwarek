@@ -31,3 +31,8 @@
 
 ###  Contact
 [![Email](https://img.shields.io/badge/Email-janskwarek08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janskwarek08@gmail.com)
+
+### GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=janskwarek&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=janskwarek&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=janskwarek&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
