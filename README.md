@@ -25,7 +25,7 @@
 ![Minimalism](https://img.shields.io/badge/Minimalism-Clean%20Code-black?style=for-the-badge)
 ![AndroidStudio](https://img.shields.io/badge/Android-Studio-green?style=for-the-badge&logo=android&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-iOS%20Development-orange?style=for-the-badge&logo=swift&logoColor=white)
+
 
 ---
 
